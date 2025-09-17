@@ -5,7 +5,7 @@ Each project links to a real-world company that has built this type of solution.
 ---
 
 ## 🟢 Level 1–20 (Beginner / Small Tools)
-- [ ] 1. To-Do List App → *Microsoft To Do*  
+- [x] 1. To-Do List App → *Microsoft To Do* → [Project Rules](./To-Do%20List%20App/README.md)  
 - [ ] 2. Notes App → *Evernote*  
 - [ ] 3. Habit Tracker → *Habitica*  
 - [ ] 4. Pomodoro Timer → *Focus Booster*  
