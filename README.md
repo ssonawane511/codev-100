@@ -1,11 +1,13 @@
 # Codev-100 Roadmap  
-A curated list of **100 software project ideas** scaling from beginner-friendly apps to global enterprise platforms.  
-Each project links to a real-world company that has built this type of solution.  
+
+A Collaborative Journey to Learn 1–100 Projects by Making Project Blueprints for AI Development, Even Before Writing a Single Line of Code
+
+> **Join the Journey!** 🤝 This is an open-source initiative to learn AI efficiency through structured project blueprints. Fork, contribute, and help build the ultimate AI development roadmap. [→ How to Contribute](./CONTRIBUTING.md)
 
 ---
 
 ## 🟢 Level 1–20 (Beginner / Small Tools)
-- [ ] 1. To-Do List App → *Microsoft To Do*  
+- [x] 1. To-Do List App → *Microsoft To Do* → [Project Rules](./To-Do%20List%20App/README.md)  
 - [ ] 2. Notes App → *Evernote*  
 - [ ] 3. Habit Tracker → *Habitica*  
 - [ ] 4. Pomodoro Timer → *Focus Booster*  
@@ -28,7 +30,9 @@ Each project links to a real-world company that has built this type of solution.
 
 ---
 
-## 🟡 Level 21–40 (Intermediate / SMB Tools)
+<details>
+<summary><h2>🟡 Level 21–40 (Intermediate / SMB Tools)</h2></summary>
+
 - [ ] 21. E-commerce Storefront → *Shopify*  
 - [ ] 22. Restaurant Menu & Orders → *Toast*  
 - [ ] 23. Inventory Tracker → *Zoho Inventory*  
@@ -50,9 +54,11 @@ Each project links to a real-world company that has built this type of solution.
 - [ ] 39. Personal CRM → *Monica*  
 - [ ] 40. Simple Travel Planner → *TripIt*  
 
----
+</details>
 
-## 🔵 Level 41–60 (Advanced / Niche Platforms)
+<details>
+<summary><h2>🔵 Level 41–60 (Advanced / Niche Platforms)</h2></summary>
+
 - [ ] 41. Healthcare Appointment System → *Practo*  
 - [ ] 42. Fitness Streaming Platform → *Peloton*  
 - [ ] 43. Music Streaming → *Spotify*  
@@ -74,9 +80,11 @@ Each project links to a real-world company that has built this type of solution.
 - [ ] 59. Global Marketplace → *Amazon*  
 - [ ] 60. Taxi Dispatch ERP → *Ola Fleet*  
 
----
+</details>
 
-## 🟣 Level 61–80 (Enterprise / Complex Systems)
+<details>
+<summary><h2>🟣 Level 61–80 (Enterprise / Complex Systems)</h2></summary>
+
 - [ ] 61. Enterprise HRMS → *Workday*  
 - [ ] 62. ERP for Manufacturing → *SAP*  
 - [ ] 63. Hospital Management System → *Cerner*  
@@ -98,9 +106,11 @@ Each project links to a real-world company that has built this type of solution.
 - [ ] 79. Smart City Transport System → *Moovit*  
 - [ ] 80. AI-Powered Recruiting → *HireVue*  
 
----
+</details>
 
-## 🔴 Level 81–100 (Global Scale / AI-Driven)
+<details>
+<summary><h2>🔴 Level 81–100 (Global Scale / AI-Driven)</h2></summary>
+
 - [ ] 81. Social Media Platform → *Facebook*  
 - [ ] 82. Video Shorts Platform → *TikTok*  
 - [ ] 83. AI Code Assistant → *GitHub Copilot*  
@@ -122,4 +132,4 @@ Each project links to a real-world company that has built this type of solution.
 - [ ] 99. AI Foundation Model → *OpenAI*  
 - [ ] 100. Super App (Everything App) → *WeChat*  
 
----
+</details>
