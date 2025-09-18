@@ -8,7 +8,7 @@ A Collaborative Journey to Learn 1–100 Projects by Making Project Blueprints f
 
 ## 🟢 Level 1–20 (Beginner / Small Tools)
 - [x] 1. To-Do List App → *Microsoft To Do* → [Project Rules](./To-Do%20List%20App/README.md)  
-- [ ] 2. Notes App → *Evernote*  
+- [x] 2. Notes App → *Evernote* → [Project Rules](./Notes%20App/README.md)  
 - [ ] 3. Habit Tracker → *Habitica*  
 - [ ] 4. Pomodoro Timer → *Focus Booster*  
 - [ ] 5. Expense Tracker → *Mint*  
